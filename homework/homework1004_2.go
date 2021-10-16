@@ -65,13 +65,13 @@ func main() {
 
 
 
-package main
+// package main
 
-import (
-	"fmt"
-	"log"
-	"os"
-)
+// import (
+// 	"fmt"
+// 	"log"
+// 	"os"
+// )
 
 //version-01 메인함수에서만 만들어 보기.
 // func main() {
